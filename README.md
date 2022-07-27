@@ -5,6 +5,6 @@ Repositorio para almacenar todo el material utilizado en artículos de Analític
 ![alt text](https://github.com/holabertia/Advanced-Analytics-Solutions/blob/main/Imagenes/hands-holding-up-word-data.jpg)
 
 
-## Authors ✒️
+## Autores ✒️
 
 * **Lorena Méndez Otero** - lmendez@bertia.es

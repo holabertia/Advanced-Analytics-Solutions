@@ -7,4 +7,4 @@ Repositorio para almacenar todo el material utilizado en artículos de Analític
 
 ## Authors ✒️
 
-* **Lorena Méndez Otero** - [lmendezotero](https://github.com/lmendezotero) 
+* **Lorena Méndez Otero** - lmendez@bertia.es

@@ -23,3 +23,4 @@ Bien, una vez dicho esto, ¡manos a la obra!
 
 Explora los artículos, ejecuta los códigos y experimenta con los datasets. Si tienes dudas, preguntas o sugerencias, no dudes en enviarnos un correo a la dirección hola@bertia.es, estaremos encantados de ayudarte.
 
+Esperamos que este repositorio sea una guía práctica y enriquecedora en tu aventura por el Aprendizaje Supervisado. ¡Muchas gracias!

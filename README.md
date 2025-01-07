@@ -8,5 +8,5 @@ Repositorio para almacenar todo el material utilizado en artículos de Analític
 ## Autores ✒️
 
 * **Lorena Méndez Otero** - lmendez@bertia.es
-* * **Itziar Beltrán** - ibeltran@bertia.es
-* * **Berta Palau Martínez** - bpalau@bertia.es
+* **Itziar Beltrán** - ibeltran@bertia.es
+* **Berta Palau Martínez** - bpalau@bertia.es
